@@ -1,3 +1,5 @@
+student_population = 11
+
 puts "Students at Villains Academy"
 puts "----------------------------"
 puts "Dr. Hannibal Lecter"
@@ -11,3 +13,4 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+puts "Overall we have #{student_population} great students!"
