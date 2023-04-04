@@ -32,6 +32,7 @@ puts "Overall we have #{names.count} great student!"
 else
 puts "Overall we have #{names.count} great students!"
 end
+end
 
 students = input_students
 print_header
