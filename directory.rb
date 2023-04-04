@@ -27,7 +27,7 @@ def print(names)
 end
 
 def print_footer(names)
-if name.count == 1
+if names.count == 1
 puts "Overall we have #{names.count} great student!"
 else
 puts "Overall we have #{names.count} great students!"
